@@ -2,9 +2,19 @@
 
 1.  Buka XCode, dan pilih menu **XCode** dan klik *Preferences*.
 
+<<<<<<< HEAD
 ![A screenshot of a cell phone Description automatically
 generated](.//media/image1.png){width="2.6910553368328958in"
 height="2.9468952318460193in"}
+=======
+2.  Klik Icon ![A picture containing drawing Description automatically
+    generated](.//media/image1.png) {width="0.7892169728783902in"
+    height="0.1764709098862642in"} pilih App IDs dan klik continue,
+
+![A screenshot of a social media post Description automatically
+generated](.//media/image2.png) {width="6.263888888888889in"
+height="1.4319444444444445in"}
+>>>>>>> 411c142c50104e6ed1270e7cebeccbd53824efd3
 
 2.  Kemudian akan muncul *window* seperti gambar dibawah.
 
