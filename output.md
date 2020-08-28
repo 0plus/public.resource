@@ -1,55 +1,59 @@
-Cara membuat Indetifier dan Profiles
+**Cara *Generated* .12 *Certificate***
 
-1.  Buka [Portal Apple
-    Developer](https://developer.apple.com/account/resources/identifiers/list)
-    Program anda, Kemudian pilih *Indentifiers*
-
-2.  Klik Icon ![A picture containing drawing Description automatically
-    generated](.//media/image1.png){width="0.7892169728783902in"
-    height="0.1764709098862642in"} pilih App IDs dan klik continue,
-
-![A screenshot of a social media post Description automatically
-generated](.//media/image2.png){width="6.263888888888889in"
-height="1.4319444444444445in"}
-
-3.  Masukan description, pilih budle Id *Explicit*, masukan Bundle Id
-    id.go.bkpm.eofficebkpm, kemudian pilih *Continue* ,
+1.  Buka XCode, dan pilih menu **XCode** dan klik *Preferences*.
 
 ![A screenshot of a cell phone Description automatically
-generated](.//media/image3.png){width="6.263888888888889in"
-height="1.4909722222222221in"}
+generated](.//media/image1.png){width="2.6910553368328958in"
+height="2.9468952318460193in"}
 
-4.  Kemudian klik Register
+2.  Kemudian akan muncul *window* seperti gambar dibawah.
 
 ![A screenshot of a cell phone Description automatically
+generated](.//media/image2.png){width="4.819119641294838in"
+height="3.302859798775153in"}
+
+3.  klik icon ![](.//media/image3.png){width="0.2312095363079615in"
+    height="0.18094706911636046in"} pilih Apple ID dan klik *Continue*,
+    kemudian masukan akun Apple Developer Program anda. Setelah berhasil
+    akan muncul informasi akun anda, seperti gambar dibawah.
+
+![A screenshot of a computer screen Description automatically
 generated](.//media/image4.png){width="6.263888888888889in"
-height="1.0180555555555555in"}
+height="4.285416666666666in"}
 
-5.  Kemudian pilih menu Profiles dan klik icon ![A picture containing
-    drawing Description automatically
-    generated](.//media/image5.png){width="0.803921697287839in"
-    height="0.24062882764654417in"}, pilih Apple Store, dan klik
-    continue
+4.  Kemudian Pilih Team Anda dan tekan Manage Certificate
+
+![A screenshot of a cell phone screen with text Description
+automatically
+generated](.//media/image5.png){width="6.263888888888889in"
+height="3.0034722222222223in"}
+
+5.  Kemudian akan muncul window seperti gambar dibawah, dan klik icon
+    ![](.//media/image3.png){width="0.2312095363079615in"
+    height="0.18094706911636046in"} dan pilih Apple Distribution.
 
 ![A screenshot of a cell phone Description automatically
 generated](.//media/image6.png){width="6.263888888888889in"
-height="4.059722222222222in"}
+height="4.7340277777777775in"}
 
-6.  Pilih App Id yang telah dibuat sebelumnya, dan klik continue, ![A
-    screenshot of a social media post Description automatically
-    generated](.//media/image7.png){width="6.263888888888889in"
-    height="1.7381944444444444in"}
+6.  Kemudian klik *cerficate* yang telah dibuat, dan klik kanan pilih
+    Export Cerficate
 
-7.  kemudian pilih *certificate* yang telah dibuat(cek expired
-    *cerficate*nya harusnya tanggalnya tidak beda jauh dari tanggal
-    pembuatan) kemudian pilih Continue
+![A screenshot of a cell phone Description automatically
+generated](.//media/image7.png){width="6.263888888888889in"
+height="1.292361111111111in"}
+
+7.  Kemudian akan muncul windows seperti gambar dibawah, pilih lokasi
+    penyimpan certificate, password dan verify password, dan klik tombol
+    Save.
 
 ![A screenshot of a cell phone Description automatically
 generated](.//media/image8.png){width="6.263888888888889in"
-height="1.6715277777777777in"}
+height="3.779861111111111in"}
 
-8.  Masukan nama profile nya dan klik *Generated* dan *Download*
+8.  Kemudian, anda akan diarahkan ke Finder lokasi penyimpanan cerficate
+    tersebut.
 
-![A screenshot of a social media post Description automatically
-generated](.//media/image9.png){width="6.263888888888889in"
-height="2.701388888888889in"}
+![A picture containing drawing Description automatically
+generated](.//media/image9.png){width="1.8333333333333333in"
+height="0.6527777777777778in"}
