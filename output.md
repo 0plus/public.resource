@@ -5,11 +5,11 @@ Cara membuat Indetifier dan Profiles
     Program anda, Kemudian pilih *Indentifiers*
 
 2.  Klik Icon ![A picture containing drawing Description automatically
-    generated](.//media/image1.png){width="0.7892169728783902in"
+    generated](.//media/image1.png) {width="0.7892169728783902in"
     height="0.1764709098862642in"} pilih App IDs dan klik continue,
 
 ![A screenshot of a social media post Description automatically
-generated](.//media/image2.png){width="6.263888888888889in"
+generated](.//media/image2.png) {width="6.263888888888889in"
 height="1.4319444444444445in"}
 
 3.  Masukan description, pilih budle Id *Explicit*, masukan Bundle Id
